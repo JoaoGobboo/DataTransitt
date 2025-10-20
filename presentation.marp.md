@@ -85,8 +85,4 @@ paginate: true
 
 ---
 
-## Próximos Passos
-
-- Integrar alertas para novas versões do dataset
-- Explorar modelos preditivos de severidade
-- Publicar painel interativo com atualizações automáticas
+# Obrigado
